@@ -8,7 +8,7 @@ import ScrollAnimation from "react-animate-on-scroll";
 export function Portfolio(){
   return(
     <Container id="portfolio">
-      <h2>Meu portfólio</h2>
+      <h2>My portfolio</h2>
 
       <div className="projects">
 
@@ -23,8 +23,8 @@ export function Portfolio(){
           </div>
           </header>
           <div className="body">
-            <h3>FCallendar</h3>
-            <p>Uma aplicação Web realizada durante o Hackathon do programa de formação da <a href="https://www.fcamara.com.br/"> FCamara</a>. Esta aplicação serve para ajudar na volta do trabalho remoto para o presencial.
+            <h3>Cryptocurrency MultiSig Wallet</h3>
+            <p>description <a href="https://"> link</a>. description
             </p>
           </div>
           <footer>
