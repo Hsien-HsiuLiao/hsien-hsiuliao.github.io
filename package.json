@@ -5,7 +5,9 @@
   "dependencies": {
     "cra-template-typescript": "1.2.0",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "react-router-hash-link": "^2.4.3",
+    "styled-components": "^5.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
