@@ -11,7 +11,7 @@ export function Contact(){
     <Container id="contato">
       <header>
         <h2>Contact</h2>
-        <p>Se você viu o meu potencial ou quer conversar comigo, não exite em me mandar uma mensagem.</p>
+        <p>Feel free to send me a message.</p>
       </header>
       <div className="contacts">
         <div>
