@@ -22,7 +22,7 @@ export function Header() {
     <Container className="header-fixed">
       <Router>
         <HashLink smooth to="#home" className="logo">
-          <span>HH</span>
+          <span>H</span>
           <span>Liao</span>
         </HashLink>
 
