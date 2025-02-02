@@ -29,10 +29,10 @@ export function Portfolio(){
           </div>
           <footer>
             <ul className="tech-list">
-              <li>Node</li>
-              <li>Express</li>
-              <li>MySql</li>
-              <li>Ejs</li>
+              <li>Truffle</li>
+              <li>Web3js</li>
+              <li>React</li>
+              <li>Solidity</li>
             </ul>
           </footer>
         </div>
@@ -52,15 +52,15 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Github Searcher</h3>
-              <p>Uma versão mais agradável para ver seu perfil do GitHub, inclui visualização de dados , repositórios, compartilhamento entre outros.
+              <h3>Defi RESTful API</h3>
+              <p>description
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>React</li>
-                <li>Typescript</li>
-                <li>Styled Components</li>
+                <li>Nodejs</li>
+                <li>Koa</li>
+                <li>Web3js</li>
               </ul>
             </footer>
           </div>
@@ -77,8 +77,8 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Sunnyside agency</h3>
-              <p>Uma lading page de uma empresa fictícia proposta pelo <a href="https://www.frontendmentor.io/">Frontend Mentor.</a>
+              <h3>Blockchain e-commerce</h3>
+              <p>description <a href="https://">Link</a>
               </p>
             </div>
             <footer>
