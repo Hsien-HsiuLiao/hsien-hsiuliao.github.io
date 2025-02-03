@@ -8,7 +8,7 @@ import ScrollAnimation from "react-animate-on-scroll";
 export function Portfolio(){
   return(
     <Container id="portfolio">
-      <h2>Meu portfólio</h2>
+      <h2>My portfolio</h2>
 
       <div className="projects">
 
@@ -23,16 +23,16 @@ export function Portfolio(){
           </div>
           </header>
           <div className="body">
-            <h3>FCallendar</h3>
-            <p>Uma aplicação Web realizada durante o Hackathon do programa de formação da <a href="https://www.fcamara.com.br/"> FCamara</a>. Esta aplicação serve para ajudar na volta do trabalho remoto para o presencial.
+            <h3>Cryptocurrency MultiSignature Wallet</h3>
+            <p>description <a href="https://"> link</a>. description
             </p>
           </div>
           <footer>
             <ul className="tech-list">
-              <li>Node</li>
-              <li>Express</li>
-              <li>MySql</li>
-              <li>Ejs</li>
+              <li>Truffle</li>
+              <li>Web3js</li>
+              <li>React</li>
+              <li>Solidity</li>
             </ul>
           </footer>
         </div>
@@ -52,15 +52,15 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Github Searcher</h3>
-              <p>Uma versão mais agradável para ver seu perfil do GitHub, inclui visualização de dados , repositórios, compartilhamento entre outros.
+              <h3>Defi RESTful API</h3>
+              <p>description
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>React</li>
-                <li>Typescript</li>
-                <li>Styled Components</li>
+                <li>Nodejs</li>
+                <li>Koa</li>
+                <li>Web3js</li>
               </ul>
             </footer>
           </div>
@@ -77,15 +77,20 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Sunnyside agency</h3>
-              <p>Uma lading page de uma empresa fictícia proposta pelo <a href="https://www.frontendmentor.io/">Frontend Mentor.</a>
+              <h3>Full Stack Blockchain e-commerce</h3>
+              <p>description <a href="https://github.com/Hsien-HsiuLiao/blockchain-ecommerce-app">github</a>
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Html</li>
-                <li>Css</li>
-                <li>JavaScript</li>
+                <li>Nodejs</li>
+                <li>Koa</li>
+                <li>Solidity</li>
+                <li>Ethers.js</li>
+                <li>MongoDB</li>
+                <li>React</li>
+                <li>Truffle</li>
+                <li>RESTful API</li>
               </ul>
             </footer>
           </div>
@@ -102,8 +107,8 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Portfólio V1</h3>
-              <p>Uma versão alternativa de meu portfólio, utilizando VueJs.
+              <h3>NFT App</h3>
+              <p>description
               </p>
             </div>
             <footer>
@@ -126,8 +131,8 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Dtmoney</h3>
-              <p>Um gerenciador de finanças para analisar seus ganhos, gastos e ter um controle maior de suas finanças.
+              <h3>DAO</h3>
+              <p>Decentralized Autonomous Organization
               </p>
             </div>
             <footer>
@@ -154,7 +159,7 @@ export function Portfolio(){
             </header>
             <div className="body">
               <h3>Music Library</h3>
-              <p>Uma interface para uma biblioteca de músicas, semelhante ao Spotify.
+              <p>description
               </p>
             </div>
             <footer>
