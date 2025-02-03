@@ -23,7 +23,7 @@ export function Portfolio(){
           </div>
           </header>
           <div className="body">
-            <h3>Cryptocurrency MultiSig Wallet</h3>
+            <h3>Cryptocurrency MultiSignature Wallet</h3>
             <p>description <a href="https://"> link</a>. description
             </p>
           </div>
@@ -77,15 +77,20 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Blockchain e-commerce</h3>
-              <p>description <a href="https://">Link</a>
+              <h3>Full Stack Blockchain e-commerce</h3>
+              <p>description <a href="https://github.com/Hsien-HsiuLiao/blockchain-ecommerce-app">github</a>
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Html</li>
-                <li>Css</li>
-                <li>JavaScript</li>
+                <li>Nodejs</li>
+                <li>Koa</li>
+                <li>Solidity</li>
+                <li>Ethers.js</li>
+                <li>MongoDB</li>
+                <li>React</li>
+                <li>Truffle</li>
+                <li>RESTful API</li>
               </ul>
             </footer>
           </div>
@@ -102,8 +107,8 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Portfólio V1</h3>
-              <p>Uma versão alternativa de meu portfólio, utilizando VueJs.
+              <h3>NFT App</h3>
+              <p>description
               </p>
             </div>
             <footer>
@@ -126,8 +131,8 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Dtmoney</h3>
-              <p>Um gerenciador de finanças para analisar seus ganhos, gastos e ter um controle maior de suas finanças.
+              <h3>DAO</h3>
+              <p>Decentralized Autonomous Organization
               </p>
             </div>
             <footer>
@@ -154,7 +159,7 @@ export function Portfolio(){
             </header>
             <div className="body">
               <h3>Music Library</h3>
-              <p>Uma interface para uma biblioteca de músicas, semelhante ao Spotify.
+              <p>description
               </p>
             </div>
             <footer>
