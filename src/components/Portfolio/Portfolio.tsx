@@ -24,7 +24,7 @@ export function Portfolio(){
           </header>
           <div className="body">
             <h3>Cryptocurrency MultiSignature Wallet</h3>
-            <p>description <a href="https://"> link</a>. description
+            <p>description <a href="https://github.com/Hsien-HsiuLiao/multisig-wallet"> link</a>. netlify link
             </p>
           </div>
           <footer>
@@ -52,15 +52,15 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Defi RESTful API</h3>
-              <p>description
+              <h3>near-dapp-musician</h3>
+              <p>description <a href="https://github.com/Hsien-HsiuLiao/near-dapp-musician"> github</a>. description
               </p>
             </div>
             <footer>
               <ul className="tech-list">
                 <li>Nodejs</li>
-                <li>Koa</li>
-                <li>Web3js</li>
+                <li>Rust</li>
+                <li>React</li>
               </ul>
             </footer>
           </div>
@@ -108,13 +108,17 @@ export function Portfolio(){
             </header>
             <div className="body">
               <h3>NFT App</h3>
-              <p>description
+              <p>displays Ethereum NFT
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>VueJs</li>
-                <li>JavaScript</li>
+                <li>Docker</li>
+                <li>React</li>
+                <li>AWS</li>
+                <li>Node js</li>
+                <li>Solidity</li>
+                <li>Ethers js</li>
               </ul>
             </footer>
           </div>
