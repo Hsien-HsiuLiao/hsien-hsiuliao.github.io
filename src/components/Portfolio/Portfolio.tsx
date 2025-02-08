@@ -17,14 +17,14 @@ export function Portfolio(){
           <header>
           <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
           <div className="project-links">
-           {/*  <a href="https://github.com/joaotuliojt/fc-squad43" target="_blank" rel="noreferrer">
+           {/*  <a href="https://github.com/Hsien-HsiuLiao/multisig-wallet" target="_blank" rel="noreferrer">
               <img src={githubIcon} alt="GitHub" />
             </a> */}
           </div>
           </header>
           <div className="body">
             <h3>Cryptocurrency MultiSignature Wallet</h3>
-            <p>description <a href="https://github.com/Hsien-HsiuLiao/multisig-wallet"> link</a>. netlify link
+            <p>description <a href="https://github.com/Hsien-HsiuLiao/multisig-wallet"> github</a>. netlify link
             </p>
           </div>
           <footer>
@@ -43,7 +43,7 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              {/* <a href="https://github.com/joaotuliojt/github-search" target="_blank" rel="noreferrer">
+              {/* <a href="https://github.com/Hsien-HsiuLiao/near-dapp-musician" target="_blank" rel="noreferrer">
                 <img src={githubIcon} alt="GitHub" />
               </a> */}
               {/* <a href="https://github-search-blond.vercel.app/" target="_blank" rel="noreferrer">
@@ -53,7 +53,7 @@ export function Portfolio(){
             </header>
             <div className="body">
               <h3>near-dapp-musician</h3>
-              <p>description <a href="https://github.com/Hsien-HsiuLiao/near-dapp-musician"> github</a>. description
+              <p>description <a href="https://github.com/Hsien-HsiuLiao/near-dapp-musician"> deployed site</a>. description
               </p>
             </div>
             <footer>
@@ -71,7 +71,7 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              {/* <a href="https://joaotuliojt.github.io/sunnyside-agency/" target="_blank" rel="noreferrer">
+              {/* <a href="https://github.com/Hsien-HsiuLiao/blockchain-ecommerce-app" target="_blank" rel="noreferrer">
                 <img src={externalLinkIcon} alt="Visitar site" />
               </a> */}
             </div>
@@ -101,14 +101,17 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              {/* <a href="https://joaotulio.vercel.app/" target="_blank" rel="noreferrer">
+              {/* <a href="https://hh-nft.netlify.app/" target="_blank" rel="noreferrer">
                 <img src={externalLinkIcon} alt="Visitar site" />
               </a> */}
             </div>
             </header>
             <div className="body">
               <h3>NFT App</h3>
-              <p>displays Ethereum NFT
+              <p>displays Ethereum NFT 
+              <a href="https://hh-nft.netlify.app/" target="_blank" rel="noreferrer">
+              deployed site
+              </a>   github https://github.com/Hsien-HsiuLiao/nft-app
               </p>
             </div>
             <footer>
@@ -116,7 +119,7 @@ export function Portfolio(){
                 <li>Docker</li>
                 <li>React</li>
                 <li>AWS</li>
-                <li>Node js</li>
+                <li>IPFS</li>
                 <li>Solidity</li>
                 <li>Ethers js</li>
               </ul>
