@@ -24,7 +24,8 @@ export function Portfolio(){
           </header>
           <div className="body">
             <h3>Cryptocurrency MultiSignature Wallet</h3>
-            <p>description <a href="https://github.com/Hsien-HsiuLiao/multisig-wallet"> github</a>. netlify link
+            <p>This app will allow transactions to be created that will send ether from one Ethereum account to another. The transaction will be displayed in a list with an approve button. A quorum of at least 2 out of 3 people must occur in order for funds to be transferred. 
+             <br></br>   <p><a href="https://github.com/Hsien-HsiuLiao/multisig-wallet">Github</a> (netlify link)</p>
             </p>
           </div>
           <footer>
@@ -53,7 +54,7 @@ export function Portfolio(){
             </header>
             <div className="body">
               <h3>near-dapp-musician</h3>
-              <p>description <a href="https://github.com/Hsien-HsiuLiao/near-dapp-musician"> deployed site</a>. description
+              <p>description <a href="https://github.com/Hsien-HsiuLiao/near-dapp-musician"> github</a>. description
               </p>
             </div>
             <footer>
@@ -108,10 +109,11 @@ export function Portfolio(){
             </header>
             <div className="body">
               <h3>NFT App</h3>
-              <p>displays Ethereum NFT 
-              <a href="https://hh-nft.netlify.app/" target="_blank" rel="noreferrer">
+              <p>displays Ethereum NFT</p> 
+              <p><a href="https://hh-nft.netlify.app/" target="_blank" rel="noreferrer">
               deployed site
-              </a>   github https://github.com/Hsien-HsiuLiao/nft-app
+              </a></p>
+              <p> <a href="https://github.com/Hsien-HsiuLiao/nft-app" target="_blank">Github</a>
               </p>
             </div>
             <footer>
@@ -144,8 +146,8 @@ export function Portfolio(){
             </div>
             <footer>
               <ul className="tech-list">
-                <li>VueJs</li>
-                <li>JavaScript</li>
+                <li>Solidity</li>
+                <li>React</li>
               </ul>
             </footer>
           </div>
@@ -165,15 +167,16 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Music Library</h3>
-              <p>description
+              <h3>Music Audio Plugin</h3>
+              <p>Coming soon 
+              </p>
+              <p> <a href="https://github.com/Hsien-HsiuLiao/audio-plugin-SimpleEQ" target="_blank">Github</a>
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Html</li>
-                <li>Css</li>
-                <li>JavaSript</li>
+                <li>JUCE</li>
+                <li>C++</li>
               </ul>
             </footer>
           </div>
