@@ -113,7 +113,7 @@ export function Portfolio(){
               <p><a href="https://hh-nft.netlify.app/" target="_blank" rel="noreferrer">
               deployed site
               </a></p>
-              <p> <a href="https://github.com/Hsien-HsiuLiao/nft-app" target="_blank">Github</a>
+              <p> <a href="https://github.com/Hsien-HsiuLiao/nft-app" target="_blank" rel="noreferrer">Github</a>
               </p>
             </div>
             <footer>
@@ -170,7 +170,7 @@ export function Portfolio(){
               <h3>Music Audio Plugin</h3>
               <p>Coming soon 
               </p>
-              <p> <a href="https://github.com/Hsien-HsiuLiao/audio-plugin-SimpleEQ" target="_blank">Github</a>
+              <p> <a href="https://github.com/Hsien-HsiuLiao/audio-plugin-SimpleEQ" target="_blank" rel="noreferrer">Github</a>
               </p>
             </div>
             <footer>
