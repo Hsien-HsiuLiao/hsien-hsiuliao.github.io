@@ -17,6 +17,7 @@ export const Container = styled.section`
     gap: 2rem;
     padding: 1rem;
     overflow: hidden;
+    word-break: break-word;
 
     .project{
       padding: 2rem 1.8rem;
@@ -55,6 +56,10 @@ export const Container = styled.section`
       p{
         letter-spacing: 0.12rem;
         margin-bottom: 2rem;
+
+        word-break: break-word;
+        overflow-wrap: break-word;
+
         a{
           color: #FFFF;
           border-bottom: 1px solid var(--green);
