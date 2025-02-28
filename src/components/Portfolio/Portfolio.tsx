@@ -23,14 +23,14 @@ export function Portfolio(){
           </div>
           </header>
           <div className="body">
-            <h3>Cryptocurrency MultiSignature Wallet</h3>
-            <p>This app will allow transactions to be created that will send ether from one Ethereum account to another. The transaction will be displayed in a list with an approve button. A quorum of at least 2 out of 3 people must occur in order for funds to be transferred. 
-             <br></br>   <p><a href="https://github.com/Hsien-HsiuLiao/multisig-wallet">Github</a> (netlify link)</p>
+            <h3>Blockchain Portfolio</h3>
+            <p>  Projects include Multi-Sig Wallet, NFT app
+             <br></br>   <p><a href="https://hh-eth-portfolio.vercel.app/">Link</a> </p>
             </p>
           </div>
           <footer>
             <ul className="tech-list">
-              <li>Truffle</li>
+              <li>Hardhat</li>
               <li>Web3js</li>
               <li>React</li>
               <li>Solidity</li>
@@ -60,21 +60,21 @@ export function Portfolio(){
             <footer>
               <ul className="tech-list">
                 <li>Nodejs</li>
-                <li>Rust</li>
-                <li>React</li>
+                <li>Rust/wasm</li>
+                <li>React/Nextjs</li>
               </ul>
             </footer>
           </div>
         </ScrollAnimation>
 
-        <ScrollAnimation animateIn="flipInX">
+        {/* <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              {/* <a href="https://github.com/Hsien-HsiuLiao/blockchain-ecommerce-app" target="_blank" rel="noreferrer">
+              <a href="https://github.com/Hsien-HsiuLiao/blockchain-ecommerce-app" target="_blank" rel="noreferrer">
                 <img src={externalLinkIcon} alt="Visitar site" />
-              </a> */}
+              </a>
             </div>
             </header>
             <div className="body">
@@ -95,16 +95,16 @@ export function Portfolio(){
               </ul>
             </footer>
           </div>
-        </ScrollAnimation>
+        </ScrollAnimation> */}
 
-        <ScrollAnimation animateIn="flipInX">
+        {/* <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              {/* <a href="https://hh-nft.netlify.app/" target="_blank" rel="noreferrer">
+              <a href="https://hh-nft.netlify.app/" target="_blank" rel="noreferrer">
                 <img src={externalLinkIcon} alt="Visitar site" />
-              </a> */}
+              </a>
             </div>
             </header>
             <div className="body">
@@ -127,16 +127,16 @@ export function Portfolio(){
               </ul>
             </footer>
           </div>
-        </ScrollAnimation>
+        </ScrollAnimation> */}
 
-        <ScrollAnimation animateIn="flipInX">
+        {/* <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              {/* <a href="https://github.com/joaotuliojt/dtmoney-trilha-reactjs" target="_blank" rel="noreferrer">
+              <a href="https://github.com/joaotuliojt/dtmoney-trilha-reactjs" target="_blank" rel="noreferrer">
                 <img src={githubIcon} alt="Visitar site" />
-              </a> */}
+              </a>
             </div>
             </header>
             <div className="body">
@@ -151,7 +151,7 @@ export function Portfolio(){
               </ul>
             </footer>
           </div>
-        </ScrollAnimation>
+        </ScrollAnimation> */}
 
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
