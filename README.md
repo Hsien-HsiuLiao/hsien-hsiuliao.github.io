@@ -1,10 +1,5 @@
 github pages help - https://dev.to/kinneko-de/react-typescript-and-cd-to-github-pages-2024-3n3h
 
-When encountering the npm error "Could not resolve dependency: npm error peer react@"^18.0.0" from @testing-library/react@13.4.0", it indicates a version mismatch between the React version specified in your project and the version required by the @testing-library/react package.
-Here are some steps to resolve this issue:
-
-Downgrade React: Change the React version in your package.json to match the required version by @testing-library/react. For example, if you have react@19.0.0, change it to react@18.0.0 and react-dom@18.0.0.
-
 
 # Getting Started with Create React App
 
