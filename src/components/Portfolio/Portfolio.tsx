@@ -23,15 +23,16 @@ export function Portfolio(){
           </div>
           </header>
           <div className="body">
-            <h3>Blockchain Portfolio</h3>
+            <h3>Ethereum Blockchain Portfolio</h3>
             <p>  Projects include Multi-Sig Wallet, NFT app
-             <br></br>   <p><a href="https://hh-eth-portfolio.vercel.app/">Link</a> </p>
+             <br></br>   
             </p>
+            <p><a href="https://hh-eth-portfolio.vercel.app/">Deployed to Vercel cloud platform</a> </p>
           </div>
           <footer>
             <ul className="tech-list">
               <li>Hardhat</li>
-              <li>Web3js</li>
+              <li>Web3js/Ethers</li>
               <li>React</li>
               <li>Solidity</li>
             </ul>
@@ -53,15 +54,17 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>near-dapp-musician</h3>
-              <p>description <a href="https://github.com/Hsien-HsiuLiao/near-dapp-musician"> github</a>. description
+              <h3>NEAR dApp for musicians</h3>
+              <p>Decentralized application on the NEAR blockchain protocol
+                
               </p>
+              <p><a href="https://github.com/Hsien-HsiuLiao/near-dapp-musician"> Github</a></p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Nodejs</li>
-                <li>Rust/wasm</li>
-                <li>React/Nextjs</li>
+                <li>WASM</li>
+                <li>Rust</li>
+                <li>React</li>
               </ul>
             </footer>
           </div>
@@ -168,7 +171,7 @@ export function Portfolio(){
             </header>
             <div className="body">
               <h3>Music Audio Plugin</h3>
-              <p>Coming soon 
+              <p>In progress
               </p>
               <p> <a href="https://github.com/Hsien-HsiuLiao/audio-plugin-SimpleEQ" target="_blank" rel="noreferrer">Github</a>
               </p>
