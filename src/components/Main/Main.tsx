@@ -2,7 +2,7 @@ import React from 'react';
 //import Particles from "react-tsparticles"
 import {Container} from "./styles.ts"
 //import {Hero} from "../Hero/Hero"
-//import { About } from "../About/About";
+import { About } from "../About/About.tsx";
 import { Contact } from "../Contact/Contact.tsx";
 import { Portfolio } from "../Portfolio/Portfolio.tsx";
 
@@ -250,8 +250,8 @@ export function Main(){
         }
       }}
     /> */}
-    {/*   <Hero></Hero>
-      <About></About> */}
+    {/*   <Hero></Hero> */}
+      <About></About> 
       <Portfolio></Portfolio>
       <Contact></Contact>
     </Container>
